@@ -8,3 +8,4 @@ Some of the projects I maintain:
 - [wtforms](https://github.com/pallets-eco/wtforms) and [flask-wtf](https://github.com/pallets-eco/flask-wtf)
 - [python-slapd](https://github.com/python-ldap/python-slapd) and [pytest-ldap](https://pypi.org/project/pytest-ldap/)
 - [flask-dramatiq](https://github.com/pallets-eco/flask-dramatiq) and [dramatiq-eager-broker](https://codeberg.org/yaal/dramatiq-eager-broker)
+- [jinja-autodoc](https://github.com/sphinx-contrib/jinja-autodoc)
