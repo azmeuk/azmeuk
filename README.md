@@ -1,6 +1,6 @@
-Python co-operative worker at [yaal.coop](https://yaal.coop) and [lasuite.coop](https://lasuite.coop).
+Co-operative associate worker at [yaal.coop](https://yaal.coop) and [lasuite.coop](https://lasuite.coop).
 
-Some of the project I maintain:
+Some of the projects I maintain:
 
 - [Canaille](https://github.com/yaal-coop/canaille) and [pytest-iam](https://github.com/pytest-dev/pytest-iam)
 - [Authlib](https://github.com/authlib/authlib) and [auth-playground](https://github.com/authlib/auth-playground)
