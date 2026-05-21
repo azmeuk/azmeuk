@@ -1,4 +1,4 @@
-Co-operative associate worker at [yaal.coop](https://yaal.coop) and [lasuite.coop](https://lasuite.coop).
+Co-operative associate worker at [yaal.coop](https://yaal.coop) and [lasuite.coop](https://lasuite.coop). Developer for almost 20 years.
 
 Some of the projects I maintain:
 
