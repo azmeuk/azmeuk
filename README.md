@@ -4,7 +4,7 @@ Some of the projects I maintain:
 
 - IAM: [Canaille](https://github.com/yaal-coop/canaille) and [pytest-iam](https://github.com/pytest-dev/pytest-iam)
 - OAuth2 / OIDC: [Authlib](https://github.com/authlib/authlib) and [auth-playground](https://github.com/authlib/auth-playground)
-- SCIM2: [scim2-models](https://github.com/scim2-models), [scim2-client](https://github.com/scim2-client), [scim2-cli](https://github.com/scim2-cli), [scim2-tester](https://github.com/scim2-tester)
+- SCIM2: [scim2-models](https://github.com/python-scim/scim2-models), [scim2-client](https://github.com/python-scim/scim2-client), [scim2-cli](https://github.com/python-scim/scim2-cli), [scim2-tester](https://github.com/python-scim/scim2-tester)
 - WTForms: [wtforms](https://github.com/pallets-eco/wtforms) and [flask-wtf](https://github.com/pallets-eco/flask-wtf)
 - LDAP: [python-slapd](https://github.com/python-ldap/python-slapd) and [pytest-ldap](https://pypi.org/project/pytest-ldap/)
 - Dramatiq: [flask-dramatiq](https://github.com/pallets-eco/flask-dramatiq) and [dramatiq-eager-broker](https://codeberg.org/yaal/dramatiq-eager-broker)
