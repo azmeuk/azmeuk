@@ -9,4 +9,4 @@ Some of the projects I maintain:
 - LDAP: [python-slapd](https://github.com/python-ldap/python-slapd) and [pytest-ldap](https://pypi.org/project/pytest-ldap/)
 - Dramatiq: [flask-dramatiq](https://github.com/pallets-eco/flask-dramatiq) and [dramatiq-eager-broker](https://codeberg.org/yaal/dramatiq-eager-broker)
 - Jinja: [jinja-autodoc](https://github.com/sphinx-contrib/jinja-autodoc)
-- Pytest: [pytest-libfaketime](https://github.com/pytest-dev/pytest-scim2-server) [pytest-libfaketime](https://github.com/pytest-dev/pytest-scim2-server)
+- Pytest: [pytest-libfaketime](https://github.com/pytest-dev/pytest-scim2-server) and [pytest-libfaketime](https://github.com/pytest-dev/pytest-scim2-server)
