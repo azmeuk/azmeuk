@@ -1,4 +1,4 @@
-Co-operative co-founder and associate worker at [yaal.coop](https://yaal.coop) and [LaSuite.coop](https://lasuite.coop). Building authentication and provisioning tools for Python. Developer for almost 20 years.
+Co-operative co-founder and associate worker at [Yaal Coop](https://yaal.coop) and [LaSuite.coop](https://lasuite.coop). Building authentication and provisioning tools for Python. Developer for almost 20 years.
 
 Some of the projects I maintain:
 
